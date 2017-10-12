@@ -4,7 +4,7 @@
 * _**School**_: HSTAT
 * **Bio**: My hobbies are:
   * Drawing  
-    * (I like using) [www.deviantart.com]
+    * [Artists inspire me] (https://www.deviantart.com/)
   * Reading
     * Fantasy novels
   ---
