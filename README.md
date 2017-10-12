@@ -1,10 +1,14 @@
-* **Name**: Danny Wu
-* **Email**: dannyw3292@hstat.org
-* **School**: HSTAT
-* Bio: My hobbies are:
-* 
-
-___
+ ### About Me
+* _**Name**_: Danny Wu
+* _**Email**_: dannyw3292@hstat.org
+* _**School**_: HSTAT
+* **Bio**: My hobbies are:
+  * Drawing  
+    * (I like using) [www.deviantart.com]
+  * Reading
+    * Fantasy novels
+  ---
+ #### School Schedule
 * Schedule:
   1) Math
   2) SEP
