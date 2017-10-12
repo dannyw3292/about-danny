@@ -7,7 +7,8 @@
     * [Artists inspire me] (https://www.deviantart.com/)
   * Reading
     * Fantasy novels
-  ---
+    
+    ---
  #### School Schedule
 * Schedule:
   1) Math
