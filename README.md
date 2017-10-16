@@ -1,7 +1,7 @@
  ### About Me
 * _**Name**_: Danny Wu
 * _**Email**_: dannyw3292@hstat.org
-* _**School**_: HSTAT
+* _**School**_: HSTAT (High School of Telecommunication Arts and Technology)
 * **Bio**: My hobbies are:
   * Drawing  
     * [Artists inspire me] (https://www.deviantart.com/)
